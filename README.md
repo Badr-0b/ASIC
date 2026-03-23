@@ -60,6 +60,8 @@ final dimensions are ~15um x ~19um, about the size of a large bacterium.
 | **KLayout** | GDS viewing and 2.5D/3D visualization |
 | **WSL2 (Ubuntu)** | Development environment |
 
+> The SPICE netlist is not publicly available. Contact me for access requests.
+
 > **Note:** The full place-and-route pipeline used to generate the final GDS from the netlist is proprietary and not documented here. See `LICENSE.md`.
 
 > **Note:** Never do this in WSL2 again. Save yourself the hassle and just get Ubuntu on a Virtual Machine.
@@ -68,7 +70,7 @@ final dimensions are ~15um x ~19um, about the size of a large bacterium.
 
 ## License
 
-Copyright © 2025. All rights reserved.  
+Copyright © 2026. All rights reserved.  
 See `LICENSE.md` for full terms. **Do not copy, reproduce, or redistribute any part of this design or toolchain without explicit written permission.**
 
 ---
